@@ -3,3 +3,10 @@
 ################################################################################
 
 /AntiAfkApp/bin/Release/netcoreapp2.2
+/AntiAfkApp/obj
+/AntiAfkApp/bin/Debug/netcoreapp2.2
+/.vs/AntiAfkApp/v16/Server/sqlite3
+/.vs/AntiAfkApp/v16/.suo
+/AntiAfkApp/AntiAfkApp.csproj.user
+/AntiAfkApp/Properties/PublishProfiles/FolderProfile.pubxml.user
+/AntiAfkApp/Properties/PublishProfiles/FolderProfile.pubxml
